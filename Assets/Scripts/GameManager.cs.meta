@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc521686252fb964ba1107f5d7492f7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fruitObject: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
